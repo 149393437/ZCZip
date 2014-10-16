@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4292B48A-0601-49F3-93EA-AFC5A957D549</string>
+	<key>IDESourceControlProjectName</key>
+	<string>压缩文件解压文件</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8180E855-858E-48FD-BA42-E408F2FF01D0</key>
+		<string>https://github.com/149393437/ZCZip.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>手动的压缩与解压缩/压缩文件解压文件.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8180E855-858E-48FD-BA42-E408F2FF01D0</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/149393437/ZCZip.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8180E855-858E-48FD-BA42-E408F2FF01D0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8180E855-858E-48FD-BA42-E408F2FF01D0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ZCZip</string>
+		</dict>
+	</array>
+</dict>
+</plist>
